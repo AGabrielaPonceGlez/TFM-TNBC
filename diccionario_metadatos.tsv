@@ -1,0 +1,7 @@
+campo	descripcion
+cohort	Cohorte o estudio de origen
+technology	Tecnología (RNAseq / Agilent_microarray / HTG_EdgeSeq_OBP)
+sample_id	Identificador de muestra (armonizado en mayúsculas y sin espacios)
+arm	Brazo de tratamiento (si aplica)
+response	Respuesta: R/NR/NA (pCR, RECIST u otros criterios, según la cohorte)
+timepoint	Momento de biopsia o visita (si aplica; por ejemplo, PRE/POST tratamiento)

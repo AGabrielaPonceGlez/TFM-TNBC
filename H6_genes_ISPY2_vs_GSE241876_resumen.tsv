@@ -1,0 +1,2 @@
+comparacion	n_genes_comunes	n_sig_ISPY2	n_sig_GSE	n_sig_ambas	cor_spearman_logFC_global	cor_spearman_logFC_sig_both
+ISPY2_vs_GSE241876	16171	843	0	0	-0.182356278936918	NA

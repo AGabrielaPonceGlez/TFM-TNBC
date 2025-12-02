@@ -1,0 +1,2 @@
+comparacion	n_pathways_comunes	n_sig_GSE	n_sig_BRTN	n_sig_ambas	cor_spearman_NES_vs_logFC
+GSE241876_vs_HTG_BrighTNess	50	16	24	10	-0.49090036014405763

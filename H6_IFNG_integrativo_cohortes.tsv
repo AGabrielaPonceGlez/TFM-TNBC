@@ -1,0 +1,4 @@
+cohorte	tipo_medida	valor_principal	info_adicional
+GSE173839_ISPY2	AUC ROC (score vía IFN-γ)	0.3168276972624799	n_R = 36, n_NR = 69
+HTG_BrighTNess	log2(FC) R vs NR (vía IFN-γ)	0.03372420058800019	FDR = 0.000454
+HTG_SCANB	Score basal ssGSEA IFN-γ	0.24748752909200605	n = 326; q25/q50/q75 = 0.193/0.245/0.308

@@ -1,0 +1,2 @@
+cohort	n_genes	n_samples	transform
+HTG_SCANB_HTG_RSEQ	2540	326	log1p

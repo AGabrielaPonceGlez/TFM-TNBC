@@ -1,0 +1,2 @@
+comparacion	n_pathways_comunes	n_sig_ISPY2	n_sig_GSE	n_sig_ambas	cor_spearman_logFC_vs_NES
+ISPY2_vs_GSE241876	50	13	15	5	-0.5002160864345738

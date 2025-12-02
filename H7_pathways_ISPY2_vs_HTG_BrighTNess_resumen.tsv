@@ -1,0 +1,2 @@
+comparacion	n_pathways_comunes	n_sig_ISPY2	n_sig_BRTN	n_sig_ambas	cor_spearman_logFC_vs_logFC
+ISPY2_vs_HTG_BrighTNess	50	13	24	9	0.8523889555822329
